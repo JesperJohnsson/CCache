@@ -36,7 +36,7 @@ __In your frontcontroller:__
 <pre><code>$app->cache->put('file','hello');</code></pre>
 
 __To prune all items from cache:__
-<pre><code>$table = $app->cache->pruneAll();</code></pre>
+<pre><code>$app->cache->pruneAll();</code></pre>
 
 ## Composer
 You can add [ccache](https://packagist.org/packages/jejd14/ccache) to your composer.json file like this.
