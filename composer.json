@@ -2,7 +2,7 @@
     "name": "jejd14/ccache",
     "type": "library",
     "description": "A small class for caching information",
-    "keywords": ["logging", "debug"],
+    "keywords": ["caching"],
     "license": "MIT",
     "authors": [
         {
