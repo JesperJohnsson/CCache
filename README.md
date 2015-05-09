@@ -4,7 +4,7 @@
 ## About
 A small class for chaching information
 
-##PHP Version
+##Tech
 <pre><code>PHP >= 5.4.0</code></pre>
 
 ## Introduction
