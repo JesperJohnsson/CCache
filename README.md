@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/JesperJohnsson/CCache.svg?branch=master)](https://travis-ci.org/JesperJohnsson/CCache.svg?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/JesperJohnsson/CLog/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/JesperJohnsson/CLog/?branch=master) [![License](https://poser.pugx.org/dlid/cdbyuml/license.svg)](https://packagist.org/packages/jejd14/ccache)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/JesperJohnsson/CCache/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/JesperJohnsson/CCache/?branch=master)[![Code Coverage](https://scrutinizer-ci.com/g/JesperJohnsson/CCache/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/JesperJohnsson/CCache/?branch=master)
+[![License](https://poser.pugx.org/dlid/cdbyuml/license.svg)](https://packagist.org/packages/jejd14/ccache)
 
 # CCache
 ## About
