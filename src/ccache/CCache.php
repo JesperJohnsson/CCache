@@ -23,9 +23,7 @@ class CCache
     /**
     * Constructor.
     *
-    * @param $text string the dirty HTML.
-    *
-    * @return string as the clean HTML.
+    * @param $dir, the directory of the cachefiles.
     */
     public function __construct($dir)
     {
