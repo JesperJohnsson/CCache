@@ -84,9 +84,9 @@ class CCache
     *
     * @param string $key to the cached object.
     */
-    public function prune($key)
+    public function prune($key = "default")
     {
-        @unlink($this->options['dir'] . '/' . strtolower($key));
+        unlink($this->options['dir'] . '/' . strtolower($key));
     }
 
 
